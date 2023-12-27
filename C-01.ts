@@ -12,3 +12,6 @@
  * JS: 프로그램을 실행할 때
  * TS: 에디터에 코드를 입력하는 즉시
  */
+
+// 콘솔 출력 해보기
+console.log('Hello, TypeScript!');
